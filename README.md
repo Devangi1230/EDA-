@@ -6,6 +6,7 @@ this dataset shows which kind of app is more popular in which category and
 what price is charged and also customer reviews about each apps . 
 
 ❓What's the objective of the analysis?
+
 1.Understand app trends on the Google Play Store by category, installs, ratings, and prices.
 
 2.Find out what drives the success of an app (e.g., good ratings, high number of installs).
@@ -16,12 +17,15 @@ what price is charged and also customer reviews about each apps .
 
 5.Clean and preprocess the dataset to deal with missing values, outliers, and inconsistent data types.
 
+
 ❓Any key questions being answered?
+
 1.Which Category has largest Number of installations?
 
 2.What are the top 5 most installed Apps in Each popular Categories?
 
 3.How many apps are there on google Play store Which get 5 Ratings?
+
 
 📂 Dataset
 Source of the data (Kaggle Google playstore)
@@ -58,6 +62,7 @@ Tools/libraries used ( pandas, matplotlib, seaborn)
 
 
 # MYNTRA  Exploratory Data Analysis
+
 📝 Overview
 Myntra Fashion dataset is about what kinds of retails items especially cloths are being Purchased.
 this dataset shows which the diference of purchasing in men and women and profit depends upon which year 
@@ -66,6 +71,7 @@ with reviews and purchaed by  which age groups . What kind of discounts are give
 and which brand is most purchased by which gender and it's price amd in which seasons.
 
 ❓What's the objective of the analysis?
+
 1.Understand  trends on the Myntra Ecommerce by category, brandname, ratings,gender, prices.
 
 2.What is the highest price of which brand.
@@ -76,7 +82,9 @@ and which brand is most purchased by which gender and it's price amd in which se
 
 5.Clean and preprocess the dataset to deal with missing values, outliers, and inconsistent data types.
 
+
 ❓Any key questions being answered?
+
 1.Top 10 Brand Purchase?
 
 2.Gender based Catgory purchase in acording to price and brand ?
@@ -116,12 +124,14 @@ Tools/libraries used ( pandas, matplotlib, seaborn)
 
 
 # Flight Exploratory Data Analysis
+
 📝 Overview
 Flight dataset is about the flight being take of from which source to destination.
 There many airlies that means there reviews it's journey , and it's stopage plus any additinal information 
 for the travels , evaluating the price people spend on flights and which one of the most expense and what duration it take.
 
 ❓What's the objective of the analysis?
+
 1.Understand of the airlines  by category, brandname, ratings,gender, prices.
 
 2.What is the highest price of which airline .
@@ -135,6 +145,7 @@ for the travels , evaluating the price people spend on flights and which one of 
 6.The cleaning values are more on complex like arrival time , and the duration 
 
 ❓Any key questions being answered?
+
 1.Highest Purchase of which airlines ?
 
 2.How to wrok on column like Arrival time and duration ?
@@ -172,6 +183,8 @@ Tools/libraries used ( pandas, matplotlib, seaborn)
 
 
 # White Wine Exploratory Data Analysis
+
+📝 Overview
 White dataset is about the how and what kind of mixture are used to create it .
 and compares it with quality
 
@@ -185,6 +198,7 @@ and compares it with quality
 4. All data in numerical format 
 
 ❓Any key questions being answered?
+
 1.Outliers?
 
 2.Wine quality rating  ?
