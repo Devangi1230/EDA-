@@ -1,6 +1,8 @@
 # EDA-
 # GOOGLE PLAY STORE Exploratory Data Analysis 
+
 📝 Overview
+
 Google play store dataset is about what kinds of apps are being download.
 this dataset shows which kind of app is more popular in which category and 
 what price is charged and also customer reviews about each apps . 
@@ -64,6 +66,7 @@ Tools/libraries used ( pandas, matplotlib, seaborn)
 # MYNTRA  Exploratory Data Analysis
 
 📝 Overview
+
 Myntra Fashion dataset is about what kinds of retails items especially cloths are being Purchased.
 this dataset shows which the diference of purchasing in men and women and profit depends upon which year 
 and season also what is the highest price in which category what kind of cloth plus who is the buyer as per gender 
