@@ -7,14 +7,20 @@ what price is charged and also customer reviews about each apps .
 
 ❓What's the objective of the analysis?
 1.Understand app trends on the Google Play Store by category, installs, ratings, and prices.
+
 2.Find out what drives the success of an app (e.g., good ratings, high number of installs).
+
 3.Identify patterns in user behavior by looking at app reviews, size, content rating, and so on.
+
 4.Examine app distribution by category, free vs. paid apps, and price distribution.
+
 5.Clean and preprocess the dataset to deal with missing values, outliers, and inconsistent data types.
 
 ❓Any key questions being answered?
 1.Which Category has largest Number of installations?
+
 2.What are the top 5 most installed Apps in Each popular Categories?
+
 3.How many apps are there on google Play store Which get 5 Ratings?
 
 📂 Dataset
@@ -61,14 +67,20 @@ and which brand is most purchased by which gender and it's price amd in which se
 
 ❓What's the objective of the analysis?
 1.Understand  trends on the Myntra Ecommerce by category, brandname, ratings,gender, prices.
+
 2.What is the highest price of which brand.
+
 3.Identify patterns in user behavior by looking at reviews, price, rating, and so on.
+
 4.Examine app distribution by category, discounts,seasons, and price distribution.
+
 5.Clean and preprocess the dataset to deal with missing values, outliers, and inconsistent data types.
 
 ❓Any key questions being answered?
 1.Top 10 Brand Purchase?
+
 2.Gender based Catgory purchase in acording to price and brand ?
+
 3.Most Purchased Individual Category by Women and Men?
 
 📂 Dataset
@@ -111,15 +123,22 @@ for the travels , evaluating the price people spend on flights and which one of 
 
 ❓What's the objective of the analysis?
 1.Understand of the airlines  by category, brandname, ratings,gender, prices.
+
 2.What is the highest price of which airline .
+
 3.Identify patterns in user behavior by looking at reviews, price, and so on.
+
 4.Examine app distribution by price distribution.
+
 5.Clean and preprocess the dataset to deal with missing values, outliers, and inconsistent data types.
+
 6.The cleaning values are more on complex like arrival time , and the duration 
 
 ❓Any key questions being answered?
 1.Highest Purchase of which airlines ?
+
 2.How to wrok on column like Arrival time and duration ?
+
 3.Which month traveling through flight take place?
 
 📂 Dataset
@@ -158,13 +177,18 @@ and compares it with quality
 
 ❓What's the objective of the analysis?
 1.the dataset was not in tabular form  changs made by delimiter=';', quotechar='"'
-2.Correlation between the materials added in wine  .
+
+2.Correlation between the materials added in wine .
+
 3.Identify patterns in user behavior by looking at 'fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 'chlorides', 'free sulfur dioxide', 'total sulfur dioxide', 'density', 'pH', 'sulphates', 'alcohol', 'quality'
+
 4. All data in numerical format 
 
 ❓Any key questions being answered?
 1.Outliers?
+
 2.Wine quality rating  ?
+
 3.Correalation of Wine Features?
 
 📂 Dataset
